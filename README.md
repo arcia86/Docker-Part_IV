@@ -50,7 +50,7 @@ INSERT INTO link (url, name) VALUES ('www.admin@test.com','ITS WORKS');
 
 Open the browser url= localhost:56733
 
-![Imagen of localhost:56733](/imagen/captu3.png)
+![Imagen of localhost:56733](/imagen/Capt3.png)
 
 ```
 docker ps 
